@@ -1,0 +1,15 @@
+/Users/mlorette/Documents/sharp/day01/d01_ex01/obj/Debug/net5.0/d01_ex01.csprojAssemblyReference.cache
+/Users/mlorette/Documents/sharp/day01/d01_ex01/obj/Debug/net5.0/d01_ex01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mlorette/Documents/sharp/day01/d01_ex01/obj/Debug/net5.0/d01_ex01.AssemblyInfoInputs.cache
+/Users/mlorette/Documents/sharp/day01/d01_ex01/obj/Debug/net5.0/d01_ex01.AssemblyInfo.cs
+/Users/mlorette/Documents/sharp/day01/d01_ex01/obj/Debug/net5.0/d01_ex01.csproj.CoreCompileInputs.cache
+/Users/mlorette/Documents/sharp/day01/d01_ex01/bin/Debug/net5.0/d01_ex01.deps.json
+/Users/mlorette/Documents/sharp/day01/d01_ex01/bin/Debug/net5.0/d01_ex01.runtimeconfig.json
+/Users/mlorette/Documents/sharp/day01/d01_ex01/bin/Debug/net5.0/d01_ex01.runtimeconfig.dev.json
+/Users/mlorette/Documents/sharp/day01/d01_ex01/bin/Debug/net5.0/d01_ex01.dll
+/Users/mlorette/Documents/sharp/day01/d01_ex01/bin/Debug/net5.0/ref/d01_ex01.dll
+/Users/mlorette/Documents/sharp/day01/d01_ex01/bin/Debug/net5.0/d01_ex01.pdb
+/Users/mlorette/Documents/sharp/day01/d01_ex01/obj/Debug/net5.0/d01_ex01.dll
+/Users/mlorette/Documents/sharp/day01/d01_ex01/obj/Debug/net5.0/ref/d01_ex01.dll
+/Users/mlorette/Documents/sharp/day01/d01_ex01/obj/Debug/net5.0/d01_ex01.pdb
+/Users/mlorette/Documents/sharp/day01/d01_ex01/obj/Debug/net5.0/d01_ex01.genruntimeconfig.cache
