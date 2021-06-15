@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mlorette/Documents/sharp/day01/d01_ex01/d01_ex01.csproj": {}
+    "/Users/mlorette/Documents/sharpClone/SharpPiscine/day01/d01_ex01/d01_ex01.csproj": {}
   },
   "projects": {
-    "/Users/mlorette/Documents/sharp/day01/d01_ex01/d01_ex01.csproj": {
+    "/Users/mlorette/Documents/sharpClone/SharpPiscine/day01/d01_ex01/d01_ex01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mlorette/Documents/sharp/day01/d01_ex01/d01_ex01.csproj",
+        "projectUniqueName": "/Users/mlorette/Documents/sharpClone/SharpPiscine/day01/d01_ex01/d01_ex01.csproj",
         "projectName": "d01_ex01",
-        "projectPath": "/Users/mlorette/Documents/sharp/day01/d01_ex01/d01_ex01.csproj",
+        "projectPath": "/Users/mlorette/Documents/sharpClone/SharpPiscine/day01/d01_ex01/d01_ex01.csproj",
         "packagesPath": "/Users/mlorette/.nuget/packages/",
-        "outputPath": "/Users/mlorette/Documents/sharp/day01/d01_ex01/obj/",
+        "outputPath": "/Users/mlorette/Documents/sharpClone/SharpPiscine/day01/d01_ex01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mlorette/.nuget/NuGet/NuGet.Config"
